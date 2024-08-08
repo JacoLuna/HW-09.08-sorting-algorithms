@@ -11,9 +11,9 @@ public class Main {
             System.out.print(array[i] + " ");
         }
 
-//        System.out.println("\ninsertion sorted array");
-//        insertionSort(array);
-//        printArray(array);
+        System.out.println("\ninsertion sorted array");
+        insertionSort(array);
+        printArray(array);
 
 //        System.out.println("\nselection sorted array");
 //        selectionSort(array);
@@ -27,9 +27,9 @@ public class Main {
 //        quickSort(array);
 //        printArray(array);
 
-        System.out.println("\nbubble sorted array");
-        quickSort(array);
-        printArray(array);
+//        System.out.println("\nbubble sorted array");
+//        quickSort(array);
+//        printArray(array);
     }
 
     public static void printArray(int[] array){
